@@ -1,7 +1,6 @@
 # Robot-AR
 
-docker run -sudo docker run -e ANKI_USER_EMAIL=<EMAIL> -e ANKI_USER_PASSWORD=<PASSWORD> -e VECTOR_IP=<VECTOR_IP> -e VECTOR_SERIAL=<VECTOR_SERIAL> -e VECTOR_NAME=<VECTOR_NAME> --network host -it betab0t/vector-ros-driver
-e ANKI_USER_EMAIL=miguel.guerrero5445@gmail.com -e ANKI_USER_PASSWORD=Game1122! -e VECTOR_IP=10.0.0.11 -e VECTOR_SERIAL=0050506E -e VECTOR_NAME=T3M7 --network host -it betab0t/vector-ros-driver
+sudo docker run -e ANKI_USER_EMAIL=<EMAIL> -e ANKI_USER_PASSWORD=<PASSWORD> -e VECTOR_IP=<VECTOR_IP> -e VECTOR_SERIAL=<VECTOR_SERIAL> -e VECTOR_NAME=<VECTOR_NAME> --network host -it betab0t/vector-ros-driver
 
 docker ps
 
