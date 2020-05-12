@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vectorar.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\2019 HackAThon Projects\\Unity hackothon projects\\Microbes1\\microbes 0.2\\VectorAR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VectorAR [Testing]"
+        }
+      }
+    }
+  ]
+}
